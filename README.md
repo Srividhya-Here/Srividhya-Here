@@ -1,76 +1,24 @@
-<h1 align="center">Hi 👋, I'm Srividhya Gudla</h1>
-<h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Software Developer</h3>
+# 💫 About Me:
+I am a Computer Science (AI & ML) student with strong skills in Java, Python, and web development. With hands-on experience in building responsive web applications and implementing data structures, I am passionate about solving problems and developing efficient solutions. I am eager to gain real-world experience and grow as a software developer.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Srividhya Gudla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srividhyag2024@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Srividhya-Here&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Srividhya-Here&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Srividhya-Here&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Srividhya-Here&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Srividhya-Here&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 👩‍💻 About Me
-I am a B.Tech Computer Science (AI & ML) student at GITAM University with a strong foundation in Java, Python, and data structures. I have hands-on experience in web development through building responsive web applications using HTML, CSS, and JavaScript. I am passionate about software development and machine learning, and I continuously improve my problem-solving skills through projects and algorithm practice. Currently, I am seeking opportunities to gain real-world development experience.
-
----
-
-### 🚀 Experience
-**Web Development Intern (Virtual) — ApexPlanet**  
-- Built responsive web pages using HTML, CSS, and JavaScript  
-- Worked on DOM manipulation and form validation  
-- Improved debugging, code quality, and development practices  
-- Collaborated in a structured, task-based environment  
-
----
-
-### 💻 Projects
-- **Web Development Projects**  
-  Built responsive web pages focusing on UI, layout, and usability  
-
-- **Programming Practice (Java, Python)**  
-  Developed small-scale applications to strengthen logic and problem-solving  
-
-- **Data Structures Implementation**  
-  Implemented arrays, stacks, queues, linked lists, and sorting algorithms  
-
-- **Algorithm Practice**  
-  Solved problems to improve efficiency and optimization skills  
-
----
-
-### 🛠️ Tech Stack
-**Languages:**  
-Java • Python • C  
-
-**Web Technologies:**  
-HTML • CSS • JavaScript  
-
-**Core Concepts:**  
-Data Structures & Algorithms • Object-Oriented Programming  
-
-**Tools:**  
-GitHub • VS Code  
-
----
-
-### 🏆 Achievements
-- Participated in **Google TechSprint 2025 Hackathon (GDG GITAM)**  
-- Collaborated in a team to design and present a technical solution  
-- Built a clean and user-friendly frontend prototype  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srividhya-here&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srividhya-here&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srividhya-here&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Contact Me
-- 📧 Email: srividhyag2024@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/srividhyagudlab1b266343/
-
----
-
-### ⚡ Fun Fact
-I enjoy solving coding problems and building user-friendly applications 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
