@@ -1,24 +1,127 @@
-# 💫 About Me:
-I am a Computer Science (AI & ML) student with strong skills in Java, Python, and web development. With hands-on experience in building responsive web applications and implementing data structures, I am passionate about solving problems and developing efficient solutions. I am eager to gain real-world experience and grow as a software developer.
+# Hi, I'm Srividhya Gudla 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Srividhya Gudla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srividhyag2024@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Srividhya-Here&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Srividhya-Here&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Srividhya-Here&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Srividhya-Here&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### B.Tech CSE (AI & ML) Student | AI & ML Enthusiast | Future Full-Stack + AI Developer
 
 ---
-[![](https://komarev.com/ghpvc/?username=Srividhya-Here&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I am a B.Tech Computer Science Engineering (AI & ML) student at GITAM University with strong interest in:
+
+- Artificial Intelligence
+- Machine Learning
+- Retrieval-Augmented Generation (RAG)
+- Intelligent Systems
+- Full Stack Development
+- AI for Social Impact
+
+I enjoy learning modern technologies and building projects focused on solving real-world problems through AI-driven solutions and software engineering.
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Srividhya-Here&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Srividhya-Here&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srividhya-Here&layout=compact&theme=tokyonight)
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## Machine Learning Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+
+---
+
+## Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 🧠 Experience
+
+## Software Development Engineering Intern — Bluestock
+- Worked on software development tasks in a collaborative environment
+- Improved debugging and development workflow skills
+- Learned practical software engineering concepts
+
+## Web Development Intern — ApexPlanet
+- Built responsive web pages using HTML, CSS, and JavaScript
+- Worked on frontend layouts, DOM manipulation, and UI improvements
+
+---
+
+# 📂 Projects
+
+## 🚑 AI-Based Accident Detection & Emergency Assistance System
+- Worked on an AI-based emergency assistance system concept
+- Focused on improving emergency response workflows and public safety applications
+- Explored intelligent alert systems and emergency communication concepts
+
+## ⚡ Data Structures & Algorithms Practice
+- Implemented core data structures and algorithms using Java and Python
+- Improved computational thinking and problem-solving abilities
+
+## 🌐 Responsive Web Development Projects
+- Built responsive frontend projects using HTML, CSS, and JavaScript
+- Focused on UI design and usability
+
+---
+
+# 📚 Currently Learning
+
+- Machine Learning Fundamentals
+- Retrieval-Augmented Generation (RAG)
+- AI Application Development
+- Full Stack Development
+- Modern AI Workflows
+- Backend Development
+
+---
+
+# 🌟 Cohorts & Activities
+
+## Code for India — Full Stack + AI Cohort
+- Learning modern full-stack development
+- Exploring AI integration concepts
+- Building foundational understanding of modern AI systems
+
+---
+
+# 📫 Connect With Me
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/srividhya-g1978/
+
+🔗 GitHub:  
+https://github.com/Srividhya-Here
+
+📧 Email:  
+srividhyag2024@gmail.com
+
+---
+
+⭐ “Learning consistently, building continuously, and growing one project at a time.”
