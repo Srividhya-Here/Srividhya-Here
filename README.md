@@ -23,7 +23,7 @@ I enjoy learning modern technologies and building projects focused on solving re
 
 ![](https://github-readme-stats.vercel.app/api?username=Srividhya-Here&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Srividhya-Here&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Srividhya-Here&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srividhya-Here&layout=compact&theme=tokyonight)
 
